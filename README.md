@@ -1,3 +1,3 @@
 # hello-world
 A short description
-My name is Jean
+My name is Jean the great
